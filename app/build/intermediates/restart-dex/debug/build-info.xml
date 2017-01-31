@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="28586433367383"
+    token="-7976263769698894209"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="24273782943566"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="26185161901430"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta1_fd9cc63ac4f6d6c2e2a0fe002b678d8f5afd3ce4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta1_8eb2760219f2790cde19eb012c0e68a9e7b1d70e/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="28302838350845"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="28586433367383"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

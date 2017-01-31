@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta1/constraint-layout-solver-1.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac4965ed6786f8d63f1960a996a6be667064cd28">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta1_8eb2760219f2790cde19eb012c0e68a9e7b1d70e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_121f18b0fec3815c916ec0b07dd4f13b75b26888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b1b317446140f62e7d2b44329a4a79e3707e824">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54f11f93ce228d7ca31fbeec3b651497898c91fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_7b890b98d7129c42423dc6a46764e6b8b4bcd882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d02fe8e35f52b1e0c840190b2ca60afd62689629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5aa9f7bec9682b7ea6902ef4d0214f568cb8fcd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0a7bbe26e9fb8cb60992636573fa1b8bb123a416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b06a244e97de1e5da51c3e2a0d6094aa23a70c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b51fee4f4249718906ea130b0a67d0acb2619681/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f9a795a530eb9ee02d08501ad0664ff5dbd0e06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_abf63add427955ce7b823e9dfb23866d8653fc3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_71341dcd6e993a49716eb390df0b24884e3f0375/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="61834cf5ccd351ceb9ceab6e23057267aba65a4e">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc6a74ef033d4064718da8323990147d235e498f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ca71bff02c0686b276c41479a08fd59164495fae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0392495a60deaa4aec658674a1c126c944041dfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8e9437595f35936616ed005a22d02d9157344beb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_00cdeecb1e760cbf85a7b893ee642ad712783d43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9e338555df0be2b87981b19a9867428494a7d4fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4ad8321cff5fa475cb39daf387b3cb581aab17f">
+        <dex dex="/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta1_fd9cc63ac4f6d6c2e2a0fe002b678d8f5afd3ce4/classes.dex" />
+    </item>
+
+</items>

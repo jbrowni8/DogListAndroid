@@ -1,0 +1,7 @@
+#Wed Nov 02 21:36:58 EDT 2016
+base.0=/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc6a74ef033d4064718da8323990147d235e498f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54f11f93ce228d7ca31fbeec3b651497898c91fe/classes.dex
+base.1=/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54f11f93ce228d7ca31fbeec3b651497898c91fe
+file.0=/Users/Browning/Documents/DePaulUniversity/Autumn2016/CSC472/AndroidWorkbench/BrowningJamesProgrammingAssignment6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc6a74ef033d4064718da8323990147d235e498f/classes.dex
